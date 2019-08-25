@@ -1,9 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-¤Á´«¨ìmaster branch
+Â¤ÃÂ´Â«Â¨Ã¬master branch
 =======
-¤Á´«¨ìside branch
+Â¤ÃÂ´Â«Â¨Ã¬side branch
 >>>>>>> side-branch
 =======
-¤Á´«¨ìside branch
+Â¤ÃÂ´Â«Â¨Ã¬side branch
 >>>>>>> side-branch
+
+
+test for pull request!
