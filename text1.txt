@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ¤Á´«¨ìmaster branch
+=======
+¤Á´«¨ìside branch
+>>>>>>> side-branch
 =======
 ¤Á´«¨ìside branch
 >>>>>>> side-branch

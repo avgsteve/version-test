@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ち传master branchち传master branchち传master branch
+=======
+ち传side branch
+>>>>>>> side-branch
 =======
 ち传side branch
 >>>>>>> side-branch
